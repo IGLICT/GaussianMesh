@@ -1,10 +1,11 @@
-# Jittor version of "Real-time Large-scale Deformation of Gaussian Splatting"
+# Real-time Large-scale Deformation of Gaussian Splatting
 
-This repository contains the implementation with jittor for paper "Real-time Large-scale Deformation of Gaussian Splatting"(TOG 2024).
+This repository contains the implementation with jittor for paper "Real-time Large-scale Deformation of Gaussian Splatting".
 
-![teaser-24-7](teaser\teaser-24-7.jpg)
+![teaser-24-7](teaser/teaser-24-7.jpg)
 
-<video src="teaser/1.mp4"></video>
+Video Demo
+![Demo](teaser/demo.gif)
 
 ## Set-up
 
@@ -217,16 +218,16 @@ python edit.py --camera_path <output_path> --object_name <any name> --object_gau
 
 **You can also make an animation (like flying butterfly) Reference comment code in "edit.py".**
 
-<video src="teaser/2.mp4"></video>
+![Results](teaser/results.gif)
 
 
-## Plan of Models
+<!-- ## Plan of Models
 
 - :clock3:More trained gaussian deformation demo
 
 - :clock3: Pytorch Implementation
 
--  :heavy_plus_sign: More application(Avatar body ,face ,hand)
+-  :heavy_plus_sign: More application(Avatar body ,face ,hand) -->
 
   
 
