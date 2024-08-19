@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -shared -Wl,-soname,libCudaRasterizer.so -o libCudaRasterizer.so @CMakeFiles/CudaRasterizer.dir/objects1.rsp @CMakeFiles/CudaRasterizer.dir/linkLibs.rsp -L"/usr/local/cuda-11.6/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda-11.6/targets/x86_64-linux/lib"

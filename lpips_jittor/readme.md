@@ -1,0 +1,1 @@
+downloads the pretrained weights for LPIPS metric in https://drive.google.com/drive/folders/1cTbrSl5M-7CNNDr0iJVgtRYSVrR3f4xb?usp=sharing and put it in the `lpips_jittor` folder.

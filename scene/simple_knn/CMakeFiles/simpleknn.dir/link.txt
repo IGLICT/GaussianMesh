@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -shared -Wl,-soname,libsimpleknn.so -o libsimpleknn.so @CMakeFiles/simpleknn.dir/objects1.rsp @CMakeFiles/simpleknn.dir/linkLibs.rsp -L"/usr/local/cuda-11.6/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda-11.6/targets/x86_64-linux/lib"

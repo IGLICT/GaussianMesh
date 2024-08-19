@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -shared -Wl,-soname,libdepthCudaRasterizer.so -o libdepthCudaRasterizer.so @CMakeFiles/depthCudaRasterizer.dir/objects1.rsp @CMakeFiles/depthCudaRasterizer.dir/linkLibs.rsp -L"/usr/local/cuda-11.6/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda-11.6/targets/x86_64-linux/lib"

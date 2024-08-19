@@ -1,0 +1,1 @@
+-I"/home/zhangbotao/jittor/gaussian-splatting-jittor-高斯网/gaussian_renderer/diff_gaussian_rasterizater/depth_cuda_rasterizer" -I"/home/zhangbotao/jittor/gaussian-splatting-jittor-高斯网/gaussian_renderer/diff_gaussian_rasterizater/third_party/glm" -I"/usr/local/cuda-11.6/targets/x86_64-linux/include"

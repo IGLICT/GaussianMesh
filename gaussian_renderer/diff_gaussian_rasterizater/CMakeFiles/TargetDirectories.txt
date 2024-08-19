@@ -1,0 +1,3 @@
+/home/zhangbotao/jittor/gaussian-splatting-jittor-高斯网/gaussian_renderer/diff_gaussian_rasterizater/CMakeFiles/depthCudaRasterizer.dir
+/home/zhangbotao/jittor/gaussian-splatting-jittor-高斯网/gaussian_renderer/diff_gaussian_rasterizater/CMakeFiles/edit_cache.dir
+/home/zhangbotao/jittor/gaussian-splatting-jittor-高斯网/gaussian_renderer/diff_gaussian_rasterizater/CMakeFiles/rebuild_cache.dir

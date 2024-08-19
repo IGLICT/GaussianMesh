@@ -1,0 +1,3 @@
+/home/zhangbotao/jittor/gaussian-splatting-jittor/scene/simple_knn/CMakeFiles/simpleknn.dir
+/home/zhangbotao/jittor/gaussian-splatting-jittor/scene/simple_knn/CMakeFiles/edit_cache.dir
+/home/zhangbotao/jittor/gaussian-splatting-jittor/scene/simple_knn/CMakeFiles/rebuild_cache.dir
